@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 /**
  * Array02
+ * Alternative loop syntax for accessing array elements
+ * Illustrate toString() method in Arrays class to print an array
  */
 public class Array02 {
     public static void main(String[] args) {

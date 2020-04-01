@@ -18,11 +18,18 @@ public class Array03 {
 
         System.out.println();
     }
+    // End main
 
+    /**
+     * @param arr is array
+     * @param i for index one
+     * @param j for index two
+     */
     public static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }
+    // End swap
 
 }

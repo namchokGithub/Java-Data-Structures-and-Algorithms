@@ -2,6 +2,7 @@ package practice;
 
 /**
  * Array04
+ * Array can be returned from a method
  */
 public class Array04 {
 

@@ -1,10 +1,12 @@
 package practice;
 /**
  * Array
+ * Every array has a public length attribute (it is not a method!)
  */
 public class Array01 {
 
     public static void main(String[] args) {
+        // In Java, array is an object.
         int[] ary; 
 
         // create a new integer array with 5 element
